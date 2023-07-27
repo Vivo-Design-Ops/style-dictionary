@@ -12,3 +12,6 @@
     21.9px 31.4px 35.9px -3.2px hsl(var(--shadow-color) / 0.25),
     33.4px 47.9px 54.7px -3.7px hsl(var(--shadow-color) / 0.21);
 }
+.teste {
+  padding-top: 0em;
+}
